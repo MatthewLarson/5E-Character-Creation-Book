@@ -39,14 +39,16 @@
     - [{{ Eberron}}{{ 20}}](#p20)
   - #### [{{ Gnome}}{{ 23}}](#p23)
     - [{{ Gnome Subrace}}{{ 25}}](#p25)
-  - #### [{{ Half-Elf}}{{ 26}}](#p26)
-  - #### [{{ Half-Orc}}{{ 28}}](#p28)
-  - #### [{{ Halfling}}{{ 30}}](#p30)
-    - [{{ Halfling Subraces }}{{ 32}}](#p32)
-  - #### [{{ Human}}{{ 33}}](#p33)
-    - [{{ Theros}}{{ 33}}](#p33)
-  - #### [{{ Leonin}}{{ 34}}](#p34)
-  - #### [{{ Tiefling}}{{ 36}}](#p36)
+    - [{{ Eberron}}{{ 26}}](#p26)
+  - #### [{{ Goblinoids}}{{ 28}}](#p28)
+  - #### [{{ Half-Elf}}{{ 31}}](#p31)
+  - #### [{{ Half-Orc}}{{ 33}}](#p33)
+  - #### [{{ Halfling}}{{ 35}}](#p35)
+    - [{{ Halfling Subraces }}{{ 37}}](#p37)
+  - #### [{{ Human}}{{ 38}}](#p38)
+    - [{{ Theros}}{{ 41}}](#p41)
+  - #### [{{ Leonin}}{{ 42}}](#p42)
+  - #### [{{ Tiefling}}{{ 44}}](#p44)
 }}
 
 
@@ -997,6 +999,7 @@ Your gnome character has certain characteristics in common with all other gnomes
 ***Age***. Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
 
 ***Alignment***. Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and 
+
 <div class='pageNumber auto'></div>
 \page
 {{note
@@ -1055,7 +1058,239 @@ A third subrace of gnomes, the deep gnomes (or svirfneblin), live in small commu
 
 <div class='pageNumber auto'></div>
 \page
-![Half-elf Homes](https://media-waterdeep.cursecdn.com/attachments/0/642/half-elfintro.png) {position:absolute,top:-20px,left:0,width:200%}
+
+### Eberron
+
+{{quote-block
+
+Five words can defeat a thousand swords.
+}}
+{{quote-block-author
+— Zil proverb 
+}}
+
+The average gnome has a love of knowledge that borders on obsession, a curiosity that admits no limits, and a vast collection of potentially useful information on every personal acquaintance. Most gnomes detest physical violence and prefer to solve their problems with words — whether that’s a bard’s eloquent persuasion, a wizard’s words of power, or a rogue’s careful threat. They give an initial impression as friendly busybodies, always ready to lend a hand or share a story, while asking questions that tend toward the slightly-too-personal. Often, though, a cheerful and amiable gnome is methodically adding to a mental storehouse of knowledge that might one day provide important leverage.
+
+#### Gnomes of Zilargo
+
+To say that every Zil gnome is a ruthless schemer would be a hurtful exaggeration. Intrigue is the favorite pastime of most Zil, though. Every gnome child of Zilargo is taught to manipulate and deceive, and by the time they reach adulthood most have been involved in dozens of schemes and feuds, some of which persist well into adulthood. Even a gnome with a good heart and noble goals — of which there are many — often still prefers to use trickery and cunning rather than the unreliable tools of honesty or brute force.
+
+Most Zil gnomes belong to the forest gnome subrace. Their natural talent for illusion aids them in trickery and entertaining, and they often use small animals as messengers and guides.
+
+![Gnome](https://external-preview.redd.it/ldw_79fP6ErlEFAX9eeIHKGorQwjHpY4y8Y8HIZmkOk.jpg?auto=webp&s=9c905f35e7235c594630186bd1643570c28340ce) {position:absolute,bottom:-260px,left:-90px,width:140%,mix-blend-mode:multiply,opacity:.8}
+
+\column
+
+When you’re making a Zil gnome character, consider what kinds of schemes you or your family might be involved in. The Zil Schemes table offers some suggestions, but you should feel free to elaborate on these schemes, even to absurd extremes.
+
+
+##### Zil Schemes
+| d10 | Scheme |
+|:--|:----|
+| 1 | Your family is working on a new form of elemental binding, but they need a lot of Khyber dragonshards. |
+| 2 | You have an anonymous contact who sends you missions via the sending spell. When you do as you’re asked, you receive handsome rewards. |
+| 3 | You’ve inherited a plot of land in Q’barra. If you don’t visit within a year, you’ll lose the claim. |
+| 4 | Due to an unusual twist of Triumvirate law, you share the same name with a number of other Zil, and you’re all legally considered to be the same person. |
+| 5 | You’ve acquired a spellshard (described in chapter 5) that contains a vast amount of text in a strange code. |
+| 6 | You know the location of a wanted war criminal, and you’ve been trying to decide whether to turn them in or try to get something in exchange for your silence. |
+| 7 | You’ve been selling false treasure maps, but now you’ve found one that might be real. |
+| 8 | You’ve acquired a controlling stake in a dragon­shard mine, which was abandoned long ago. But why? Kobolds? Aberrations? There’s only one way to find out! |
+| 9 | Your family is facing financial ruin, and they’ve taken out a life insurance policy on you. It only pays out if you die under unusual circumstances, and they’re encouraging you to seek out more dangerous adventures. |
+| 10 | You’re peddling a life-extension scheme where clients are petrified by a medusa and then restored later. |
+
+
+<div class='pageNumber auto'></div>
+\page
+
+
+Additionally, consider your relationship to Zilargo: why you have left, and what ties do you still have to it? Your scheme could provide a good reason for you to leave. Or you could be a sage gathering information for the Library of Korranberg or an investigator sending stories of your adventures back to the Korranberg Chronicle. Family is important to the Zil, and you could be pursuing your family’s interests. You could even be working for the mysterious Trust, the conspiracy behind the Triumvirate’s throne that quietly maintains order in Zilargo. If you are working for the Trust, you could have a specific mission, but you could also be a sleeper agent — gathering information and allies until you’re activated and you are put to your intended use.
+
+#### Zil Names. 
+Zil society is divided into major houses, each of which is composed of multiple families. Each gnome carries the name of a house and of a family in addition to a personal name. For example, Alina Lorridan Lyrris and Tallian Talius Lyrris are members of different families (Lorridan and Talius) within House Lyrris. Gnome names are long and lyrical; a Zil proverb claims “the sweetest song is the name of a friend.” Personal and clan names are usually at least three syllables long, and there is a strong tradition of alliteration.
+
+***Male Names:*** Alian, Castar, Dorius, Elymar, Haliar, Hasal, Illian, Jassian, Lassius, Sanadal, Tallian, Torius
+
+***Female Names:*** Alina, Cassia, Dalia, Jandia, Lysse, Myssia, Ranadala, Saralyssa, Talina, Tandria, Tassi, Vassilia
+
+***Family Names:*** Alyre, Alysse, Canatar, Del, Dorian, Hal, Josilyn, Kan, Lin, Lorridan, Lyrriman, Sil, Suvius, Syrralan, Talius, Til, Torralyn
+
+***Clan Names:*** Adredar, Clebdecher, Dalian, Davandi, Harlian, Hebberdesh, Korran, Korrian, Lonadar, Lyrris, Nezzelech, Santiar, Tarliach
+
+#### Gnomes of the Five Nations
+
+As they have for countless generations, insatiable curiosity and endless opportunity draw gnomes from Zilargo into the wider lands of Khorvaire. Most of these dispersed gnomes find new homes and integrate easily into local cultures. Gnomes can be found in any walk of life, whether they be as merchants, magewrights, scholars, or scoundrels. While the gnomes of the Five Nations aren’t as inherently devious as their Zil cousins, they share the Zil emphasis on the importance of family.
+
+As a gnome character from the Five Nations, you might have a network of connections to the community your grew up in, likely built on the exchange of information. Alternatively, you might seek your own path in life, avoiding the intrigues your cousins adore.
+
+#### Gnomes and Dragonmarks
+
+The Mark of Scribing appears among the gnomes of House Sivis. The gnomes of this house were among the first of their kind to leave Zilargo and live in human lands. They love bureaucracy and intrigue as much as the gnomes of their homeland, but they have carefully cultivated a reputation for impartiality and secrecy, since their services rely on trust.
+
+Today, House Sivis provides avenues of communication across Khorvaire. Translation, mediation, interpreting, and legal advocacy all fall within House Sivis’s broad purview, and they maintain the network of message stations that allow cross-continent communication.
+
+![Gnome](https://www.belloflostsouls.net/wp-content/uploads/2018/10/mark-of-scribing.jpg) {position:absolute,bottom:450px,right:80px,width:25%,transform:scaleX(-1),mix-blend-mode:multiply}
+<div class='pageNumber auto'></div>
+
+![Gnome](https://www.belloflostsouls.net/wp-content/uploads/2018/10/mark-of-scribing-gnome.jpg) {position:absolute,bottom:-130px,right:-30px,width:65%,transform:scaleX(-1),mix-blend-mode:multiply,opacity:.8}
+
+<div class='pageNumber auto'></div>
+\page
+
+![Goblinoid Homes](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/races/5dd3f26ca5617_1-07.png) {position:absolute,top:-20px,left:-10px,width:110%}
+
+
+
+:::::::::::::::::::::::::::::::::::::::
+
+## Goblinoids
+
+{{quote-block
+Hoisting the head by the fading plumes of the ruined helmet, still tied under the chin by a cord, Haruuc raised it in one hand and his bloody sword in the other. “Your lord is dead!” he howled in the human language. “The battle is done! By my sword, I claim this place and name it Rhukaan Draal, the crown city of Darguun, the land of the people!”
+}}
+{{quote-block-author
+— Don Bassingthwaite, 
+}}
+{{quote-block-author-title
+The Doom of Kings
+}}
+:
+The goblinoid species — goblins, hobgoblins, and bugbears — were once the dominant civilization in Khorvaire, with the goblinoid Empire of Dhakaan ruling the continent for thousands of years. It was crippled by a long conflict with the daelkyr and their aberrant armies; even though the daelkyr were defeated, the seeds of madness took root in the empire and tore it apart. Today there are four primary goblinoid cultures in Khorvaire. City Goblins
+ 
+Goblins dwell in most of the major cities of the Five Nations. When humans first came to Khorvaire, they enslaved many goblins and built their cities on the foundations of Dhakaani ruins. Galifar ended the practice of slavery, and these goblins are now citizens of the Five Nations. Gifted goblins can be found in all 
+
+:::::::::::::::::::::::::::::::::::::::::::
+walks of life, and goblins served in the armies of the Five Nations during the Last War.
+ 
+#### The Ghaal’dar
+ 
+The Ghaal’dar tribes arose from the remnants of the Dhakaani Empire. Hobgoblins are the leaders of the Ghaal’dar, enforcing their will on their goblin and bugbear peers. The history of the Ghaal’dar is filled with strife; when they weren’t fighting Galifar or Zilargo, the tribes usually turned on one another. This came to an end with the Last War. House Deneith hired Ghaal’dar mercenaries, and this gave focus to the divided tribes. A brilliant hobgoblin, Haruuc, united the Ghaal’dar, and under his leadership they seized control of what is now Darguun (see chapter 2). The aging Lhesh Haruuc remains as the ruler of Darguun, and many fear that his death could throw the region into chaos.
+ 
+As a Ghaal’dar goblinoid, you hold your place through cunning and strength. You may have been a former mercenary now seeking adventure. You could be working as an emissary for one of the Ghaal’dar tribes or even Lhesh Haruuc himself. Or you could have been driven from your tribe by the actions of a rival; perhaps you’re seeking allies to reclaim your birthright.
+
+<div class='pageNumber auto'></div>
+\page
+
+{{artist,position:absolute,bottom:340px,right:120px,margin-bottom:-30px
+##### Bugbears
+}}
+![Goblinoid](http://i.imgur.com/2nLP9Ec.jpg) {position:absolute,bottom:-40px,right:-60px,width:65%,transform:scaleX(-1),mix-blend-mode:multiply,opacity:.9}
+
+
+#### The Marguul
+ 
+The Marguul bugbears threw off the yoke of the Ghaal’dar long ago, seizing territory in the Seawall Mountains in the south of Darguun. They are infamous raiders, and while they have brokered a truce with the Ghaal’dar, anyone venturing into the Seawall Mountains had best travel with a Marguul guide.
+ 
+As a Marguul bugbear, you are savage and proud of it. The Marguul worship the Mockery and believe in victory by any means necessary: there is no such thing as honor on the battlefield. It’s certainly an unusual choice for a player character, but if you’ve taken a liking to a particular group of the small folk, you could be a powerful ally.
+ 
+#### The Heirs of Dhakaan
+ 
+Though the Dhakaani Empire defeated the alien daelkyr, the war left seeds of corruption strewn throughout the empire. As Dhakaan began to fall, a number of generals and governors gathered their forces and retreated into shelters deep within the earth, determined to preserve their civilization until the Empire could finally be restored. After thousands of years, their descendants have finally emerged, competing among themselves to determine which leader deserves the imperial crown. Once this is settled, they will turn to the conquest of Darguun and Khorvaire.
+
+{{padding-right:20px
+The Dhakaani are far fewer in number than the Ghaal’dar; they had to carefully limit their population in the underground vaults they’ve dwelled in for the past age. However, they have held onto the martial discipline and techniques that allowed their ancestors to dominate the continent. 
+}}
+{{padding-right:40px
+Their weaponsmiths are superior even to the artificers of House Cannith, and they are experts in the working of adamantine and other exotic metals. Anyone who presumes to look down upon goblinoids should be surprised by the skills of the Dhakaani.
+}}
+{{padding-right:80px
+The Heirs of Dhakaan are an agnostic society and don’t have clerics, paladins, or druids. Their focus is on martial excellence, and their spiritual leaders are bards, who tell tales of past glory. Among the Dhakaan, goblinoids work together. Hobgoblins are the strategists and commanders, typically having the skills of fighters, bards, or rangers. Bugbears cultivate a focused battle rage and are typically barbarians. 
+}}
+Goblins are largely artisans and laborers, but exceptional goblins join the khesh’dar (“silent folk”), learning the skills of rogues, monks, or rangers. The khesh’dar spread agents across the Five Nations, and one can never know when a city goblin might turn out to be an assassin.
+::
+As an adventurer from a Dhakaani clan, consider why are you working with the other player characters? Are you a scout gathering information? Are you searching for allies to defeat a rival clan, or to support your own unlikely bid for the Imperial throne? Are you an exile? If so, do you hope to regain your position, or have you abandoned your ties to the Dhakaani?
+ 
+#### Goblinoid Names
+ 
+Goblinoid names often feature drawn-out vowel sounds (represented by doubled letters), as seen in the names of both their ancient empire (Dhakaan) and their newborn country (Darguun). Goblins, hobgoblins, and bugbears use the same names and naming conventions, despite their tribal differences.
+ 
+***Male Names:*** Aruget, Chetiin, Daavn, Dabrak, Dagii, Drevduul, Duulan, Fenic, Gudruun, Haluun, Haruuc, Jhazaal, Kallaad, Krakuul, Krootad, Mazaan, Munta, Nasaar, Rakari, Reksiit, Tariic, Taruuzh, Thuun, Vanii, Vanon, Wuudaraj
+
+***Female Names:*** Aaspar, Aguus, Belaluur, Denaal, Draraar, Duusha, Ekhaas, Eluun, Graal, Gaduul, Hashak, Jheluum, Kelaal, Mulaan, Nasree, Raleen, Razu, Rekseen, Senen, Shedroor, Tajiin, Tuneer, Valii, Wuun
+
+
+
+#### Racial Traits
+
+If you're playing a goblinoid, your racial traits are determined by whether you're a bugbear, goblin, or hobgoblin.
+
+<div class='pageNumber auto'></div>
+\page
+
+{{artist,position:absolute,top:240px,left:320px,margin-bottom:-30px
+##### Goblins
+}}
+![Goblinoid](http://i.imgur.com/tpB2ZWL.jpg) {position:absolute,top:20px,left:40px,width:45%,transform:scaleX(-1),mix-blend-mode:multiply,opacity:.9}
+
+{{artist,position:absolute,bottom:360px,right:70px,margin-bottom:-30px
+##### Hobgoblins
+}}
+![Goblinoid](http://i.imgur.com/2e6ham8.jpg) {position:absolute,bottom:50px,right:30px,width:45%,transform:scaleX(-1),mix-blend-mode:multiply,opacity:.9}
+
+:::::::::::::::::
+
+##### Bugbear Traits
+{{indented-p 
+***Age.*** Bugbears reach adulthood at age 16 and live up to 80 years.
+}}
+
+***Alignment.*** Bugbears live on the fringes of society even in Darguun, where they value self-sufficiency and violence. They are generally chaotic, organizing in loose tribes under charismatic and powerful leaders.
+ 
+***Size.*** Bugbears have an average height of around 6'11" - 7'5" and weighing around 280-320 lbs. They are medium size.
+ 
+***Speed.*** Your base walking speed is 30 feet.
+ 
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+ 
+***Long-Limbed.*** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+ 
+***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+ 
+***Sneaky.*** You are proficient in the Stealth skill.
+ 
+***Surprise Attack.*** If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
+ 
+***Languages.*** You can speak, read, and write Common and Goblin.
+
+##### Goblin Traits
+ 
+***Age.*** Goblins reach adulthood at age 8 and live up to 60 years.
+ 
+***Alignment.*** Goblins are usually neutral. They tend to look out for themselves, preferably without drawing unwanted attention from any larger, more powerful people.
+ 
+***Size.*** Goblins are small with an average height around 4' - 4'3" and weighing around 40 lbs.
+ 
+***Speed.*** Your base walking speed is 30 feet.
+ 
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+ 
+***Fury of the Small.*** When you damage a creature with an attack or a spell and the creature’s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can’t use it again until you finish a short or long rest.
+ 
+***Nimble Escape.*** You can take the Disengage or Hide action as a bonus action on each of your turns.
+ 
+***Languages.*** You can speak, read, and write Common and Goblin.
+ 
+##### Hobgoblin Traits
+ 
+***Age.*** Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.
+ 
+***Alignment.*** Hobgoblin society in Eberron is shaped by the ideal of a strict code of honor and rigid martial discipline. Most hobgoblins are lawful, tending toward harsh enforcement of their laws.
+ 
+***Size.*** Hobgoblins are medium size. Their average height is around 5'5 - 5'10 and weighing around 155 lbs.
+ 
+***Speed.*** Your base walking speed is 30 feet.
+ 
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+ 
+***Martial Training.*** You are proficient with two martial weapons of your choice and with light armor.
+ 
+***Saving Face.*** Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status among your allies. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can’t use it again until you finish a short or long rest.
+ 
+***Languages.*** You can speak, read, and write Common and Goblin.
+
+<div class='pageNumber auto'></div>
+\page
+
+![Half-elf Homes](https://media-waterdeep.cursecdn.com/attachments/0/642/half-elfintro.png) {position:absolute,top:-20px,left:-10px,width:200%}
 
 ![Half-elf](https://media-waterdeep.cursecdn.com/attachments/thumbnails/0/640/280/408/half-elf.png) {position:absolute,top:0,left:-30px,width:63%}
 
