@@ -1,0 +1,40 @@
+/*=======---  Example CSS styling  ---=======*/
+/* Any CSS here will apply to your document! */
+
+.quote-block{
+	font-style:italic;
+	text-align:justify;
+}
+
+.quote-block-author{
+	text-align:right;
+}
+
+.quote-block-author-title{
+	text-align:right;
+	font-style:italic;
+}
+
+.size-stats{
+	font-family: ScalySansRemake;
+	font-size: .318cm;
+	line-height: 1.2em;
+	text-indent: 0;
+	padding-left: 1em;
+}
+
+.page .size-stats p+p{
+	text-indent: 0;
+}
+
+.page .size-stats+p, .page .quote-block-author-title+p, .page .quote-block+p, .page .quote-block-author+p, .page .indented-p+p {
+    text-indent: 1em;
+}
+
+.page h5+p>em>strong{
+	padding-left:1em;
+}
+
+.indented-p{
+	text-indent: 1em;
+}
