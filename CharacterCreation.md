@@ -42,13 +42,16 @@
     - [{{ Eberron}}{{ 26}}](#p26)
   - #### [{{ Goblinoids}}{{ 28}}](#p28)
   - #### [{{ Half-Elf}}{{ 31}}](#p31)
-  - #### [{{ Half-Orc}}{{ 33}}](#p33)
-  - #### [{{ Halfling}}{{ 35}}](#p35)
-    - [{{ Halfling Subraces }}{{ 37}}](#p37)
-  - #### [{{ Human}}{{ 38}}](#p38)
-    - [{{ Theros}}{{ 41}}](#p41)
-  - #### [{{ Leonin}}{{ 42}}](#p42)
-  - #### [{{ Tiefling}}{{ 44}}](#p44)
+    - [{{ Eberron}}{{ 33}}](#p33)
+  - #### [{{ Half-Orc}}{{ 34}}](#p34)
+  - #### [{{ Halfling}}{{ 36}}](#p36)
+    - [{{ Halfling Subraces }}{{ 38}}](#p38)
+    - [{{ Eberron}}{{ 39}}](#p39)
+  - #### [{{ Human}}{{ 41}}](#p41)
+    - [{{ Eberron}}{{ 44}}](#p44)
+    - [{{ Theros}}{{ 45}}](#p45)
+  - #### [{{ Leonin}}{{ 46}}](#p46)
+  - #### [{{ Tiefling}}{{ 48}}](#p48)
 }}
 
 
@@ -1378,6 +1381,68 @@ creative expression, demonstrating neither love of leaders nor desire for follow
 
 <div class='pageNumber auto'></div>
 \page
+
+### Eberron
+
+{{quote-block
+I’m not half anything. You humans come from Sarlona. Elves are from Aerenal. Me? I’m a true child of Khorvaire.
+}}
+{{quote-block-author
+— Nandon Tam,
+}}
+{{quote-block-author-title
+Khoravar activist
+}}
+
+From the Towering Woods of the Eldeen Reaches to the slums of Sharn, half-elves are found across Khorvaire. New half-elves are born in every generation from pairings between humans, elves, and other half-elves, with children typically clinging to a parent’s culture. Over centuries, though, half-elves have developed their own communities and traditions, giving them an identity strengthened by the rise of House Lyrandar and House Medani. Members of these communities generally dislike the term “half-elf,” instead calling themselves Khoravar, an Elvish term meaning “children of Khorvaire.”
+
+The elves of Aerenal have never allowed a half-elf into the Undying Court, and the Valenar elves don’t consider half-elves capable of channeling a Valenar ancestral spirit. Among humans, though, half-elves don’t experience any more prejudice or bias than members of other races, and some half-elves could easily be mistaken for human.
+
+In making a half-elf character, consider whether you were born in a Khoravar community, or if your parents were members of different races. Is your half-elf identity a source of pride, a simple fact of life, or something that has been difficult for you?
+
+#### Khoravar
+The culture that has developed among Khorvaire’s native half-elves places a strong emphasis on hospitality toward other Khoravar. They don’t expect each other to put themselves in danger for strangers’ sake, but when possible, half-elves do what they can to help others with information, shelter, and the like. Khoravar communities have weekly unity dinners where local news and events are shared; these meals are a great chance to hear about local events and opportunities.
+
+Many Khoravar espouse the idea of “the bridge between,” the notion that the Khoravar are called to facilitate communication and cooperation between members of different cultures or species. Khoravar who follow this philosophy often become bards, diplomats, mediators, or translators. Others are fascinated by their distant connection to the fey and seek to build bridges between the Material Plane and the Feywild of Thelanis. These Khoravar often become Greensinger druids or warlocks with Archfey patrons.
+
+Khoravar speak both Common and Elvish, and among themselves they often blend these two together. This pidgin makes perfect sense to anyone who speaks both languages, but someone who speaks only one of them will miss some words and subtlety of meaning.
+
+As you create a Khoravar character, you have a wide range of options to describe your backstory. The Khoravar Origin table can provide inspiration for it.
+
+##### Khoravar Origin
+| d10 | Origin |
+|:----|:-----|
+| 1	| You’re the linchpin of a Khoravar community in a major city, hosting unity meals and maintaining connections with every half-elf in the city. |
+| 2	| You grew up in a small town dominated by humans. You didn’t know any other half-elves, and you did your best to fit in. |
+| 3	| You lived in the Eldeen Reaches as part of a small Khoravar community, trying to be a bridge between the human farmers in the east and the druids and wilder folk in the west. |
+| 4	| Your small Khoravar community has only survived in the slums of Sharn through the close, family-like support you show each other. |
+| 5	| You’re part of a community in Thrane whose devotion to the Silver Flame has led you to extend your unity meals to non-Khoravar. |
+| 6	| Your Khoravar community is the crew of a Lhazaar ship. |
+| 7	| You’re part of a tiny Khoravar community in Karrnath that’s fascinated with death and the practices of your Aereni ancestors, transforming your unity meals into grim celebrations of death. |
+| 8	| You’re part of a tiny community of Khoravar living in an unexpected place, such as Droaam, Darguun, or even the Demon Wastes. Your people strive to find common ground with the native population. |
+| 9	| You are associated with House Lyrandar or House Medani, but you’re more interested in the role the house plays in supporting Khoravar communities than in the work of its guilds. |
+| 10	| You ride with the Valenar, hoping one day to prove that you are worthy of taking on a patron ancestor. |
+
+#### Half-Elves and Dragonmarks
+
+Two dragonmarks appear among half-elf families: the Mark of Detection is found in House Medani and the Mark of Storm in House Lyrandar. Both houses were established families among the Khoravar by the time their dragonmarks appeared, and they remain pillars of the Khoravar’s diverse culture. The Khoravar ideal of building bridges supports the work of both houses.
+
+With the Mark of Storm, House Lyrandar operates sailing ships and flying vessels, as well as bringing rain to farmlands. House Medani uses the Mark of Detection to offer services of personal protection.
+
+![half-elf stuff](http://klubbsaga2015.wdfiles.com/local--files/storm/Storm%2003%20-%20Greater%20Mark%20%28Lyrandar%29.png) {width:15%,right:250px,bottom:75px,position:absolute}
+{{artist,position:absolute,bottom:80px,right:255px,margin-bottom:-30px
+##### Mark of Storm
+[Greater]()
+}}
+
+![half-elf stuff](http://klubbsaga2015.wdfiles.com/local--files/detection/Detection%2002%20-%20Lesser%20Mark%20%28Medani%29.png) {width:15%,right:80px,bottom:60px,position:absolute}
+{{artist,position:absolute,bottom:220px,right:90px,margin-bottom:-30px
+##### Mark of Detection
+[Greater]()
+}}
+
+<div class='pageNumber auto'></div>
+\page
 ![Half-orc Homes](https://media-waterdeep.cursecdn.com/attachments/0/645/half-orcintro.png) {position:absolute,top:-20px,left:0,width:200%}
 
 ![Half-orc](https://media-waterdeep.cursecdn.com/attachments/thumbnails/0/643/300/399/half-orc.png) {position:absolute,top:30px,left:-20px,width:60%}
@@ -1606,6 +1671,102 @@ As a stout halfling, you’re hardier than average and have some resistance to p
 ![elf stuff](https://www.worldanvil.com/uploads/images/392bc5935dccfd2d6edfed88ed6db91c.png) {width:80%,left:10px,bottom:30px,position:absolute}
 <div class='pageNumber auto'></div>
 \page
+![elf stuff](https://images.kanka.io/user/noxE0O-HaAFmMz6ZjNr5lqEypsg=/smart/src/races%2F5dd3fc3a58a4d_2-10.png?webpfallback) {width:100%,right:0,bottom:0,position:absolute}
+<div class='pageNumber auto'></div>
+
+
+### Eberron
+
+{{quote-block
+Zombies? Minotaurs? They don’t scare me a bit. But a howling halfling warrior charging in on a clawfoot raptor? Most terrifying thing I’ve ever seen.
+}}
+{{quote-block-author
+— Sir Danton ir’Lain,
+}}
+{{quote-block-author-title
+Brelish knight
+}}
+
+The halflings of Eberron originate from eastern Khorvaire, and many nomadic tribes of halflings still travel the Talenta Plains. The appearance of dragonmarks among the halflings spurred their slow migration across Khorvaire, spreading their services of healing and hospitality along with the migration of the earliest humans across the continent. Now they are found in every part of Khorvaire, putting their distinctive talents to use.
+ 
+Lightfoot halflings are the more widespread halfling subrace, especially in the Talenta Plains, but stout halflings are found within nearly every halfling community.
+
+#### Talenta Halflings
+
+The halflings who migrated across Khorvaire in the company of humans ended up looking very human in dress, manners, and customs. Their cousins who remain in the Talenta Plains could hardly appear more different. In their homeland, halflings are nomads who ride domesticated dinosaurs across the wide plains. Those few Talenta halflings who journey across Khorvaire are visibly out of place, both attracting curious stares and expressing plenty of curiosity of their own about the strange ways of Khorvaire’s cities and towns.
+\column
+::
+As you make a Talenta halfling character, give some thought to why your character left the open plains. Perhaps you served as a mercenary scout in the Last War, and you’ve remained with the comrades you met in the conflict. Maybe your tribe was wiped out by a foreign enemy, spurring you to travel the wider world in search of information and revenge. You might be guided by the spirits, who send you whispers and visions that lead you on your adventures. You could be an official envoy of your tribe seeking allies in the world, or simply sent to learn more about the lands beyond the plains.
+
+Also, consider your relationship to the dinosaurs that play a central role in the life of the Talenta halflings. You might flavor your spells and class features as dinosaur-related: you could have a clawfoot companion, take on a fastieth form, name your combat styles and maneuvers after dinosaur attacks, or take inspiration from a glidewing (pteranodon) totem spirit. Or you could simply wear a dinosaur mask (as many Talenta halflings do), adorn yourself with claws and teeth from past dinosaur companions, or adopt dinosaur-like mannerisms. Wherever you travel, your connection to the dinosaurs of your home remains strong.
+
+Finally, it can be helpful to decide on a couple of behavioral quirks that reflect your culture. The Halfling Quirks table can provide some inspiration.
+
+<div class='pageNumber auto'></div>
+\page
+
+
+![halfling](https://media.draconic.io/images/dnd5e/source/wgte/ch-3/halflings.png) {width:80%,left:-60px,top:0,position:absolute}
+
+::::::::::::::::::::::::::
+
+##### Halfling Quirks
+| d10 | Quirk |
+|:----|:-----|
+| 1 |	You are constantly amazed by things the people of the Five Nations take for granted. |
+| 2 |	You pattern your behavior on a species of dinosaur. |
+| 3 |	You are extremely curious, and you’re always searching for new experiences. |
+| 4 |	You love to boast, and you’re always telling exaggerated stories of your amazing adventures. |
+| 5 |	You wear a mask that you believe holds the spirit of your former dinosaur mount. You like to talk to it. |
+| 6 |	You don’t understand the concept of “facts.” To you, everything is a story, and truth is in how you tell it. |
+| 7 |	You are annoyed by buildings and tools designed without consideration for small people. |
+| 8 |	You seek vengeance for a wrong done to your people. |
+| 9 |	You never forget an insult or injury. |
+| 10 |	You ascribe everything to the work of spirits. |
+
+
+#### Halflings of the Five Nations
+ 
+Quick and charming, many halflings put their natural talents to use as bards, barristers, merchants, and politicians throughout Khorvaire. Of course, these same talents prove equally useful for burglars, grifters, and other criminals.
+ 
+Of particular note is the halfling-run criminal enterprise of the Boromar Clan, the most powerful crime syndicate in Breland. The Boromars are based in Sharn, but their influence reaches across the nation and even to the distant city of Stormreach. If you decide to play a halfling rogue, or a character with a criminal or charlatan background, consider (with your DM) whether you have a connection to the Boromar Clan. You could be a freelance operative who occasionally gets jobs from a Boromar underboss. You might have a cousin in the syndicate, who occasionally pulls you in to criminal affairs. Or you could even be the reluctant heir of a 
+{{padding-left:50px,text-align:right
+Boromar leader; perhaps you’ve gone on the run rather than take your appointed place in the criminal empire, but your past may yet catch up with you.
+}}
+
+::::::::
+
+{{padding-left:50px,text-align:right
+#### Halflings and Dragonmarks
+ 
+Two dragonmarks appear among the halflings 
+}}
+{{padding-left:50px,text-align:right
+of Khorvaire, the Mark of Healing in House Jorasco and House Ghallanda’s Mark of Hospitality. Both marks are ancient, first manifesting among the halflings about the same time that the elves of Aerenal received 
+}}
+{{padding-left:150px,text-align:right
+their first marks — centuries before the arrival of humans on Khorvaire. Sometimes 
+}}
+{{text-align:justify
+halflings of House Ghallanda joke that their mark prepared them for the arrival of humans by allowing them to make their new guests comfortable in Khorvaire. There’s actually some truth in the humor: the services provided by both halfling houses helped enable the spread of humanity across the continent.
+
+With its powers related to food and shelter, the Mark of Hospitality was a boon to the early halfling nomads, but now it allows House Ghallanda to run the best inns, hostels, and taverns in the land. Similarly, the Mark of Healing has always been a boon to both nomads and settlers facing dangerous wilds, and House Jorasco still employs both magical and mundane healing techniques to tend to the well-being of patients across Khorvaire.
+}}
+
+![half-elf stuff](http://klubbsaga2015.wdfiles.com/local--files/healing/Healing%2003%20Greater%20Mark%20%28Jorasco%29.png) {width:20%,right:220px,bottom:165px,position:absolute}
+{{artist,position:absolute,bottom:415px,right:255px,margin-bottom:-30px
+##### Mark of Healing
+[Greater]()
+}}
+
+![half-elf stuff](http://klubbsaga2015.wdfiles.com/local--files/hospitality/Hospitality%2003%20Greater%20Mark%20%28Ghallanda%29.png) {width:20%,right:80px,bottom:80px,position:absolute}
+{{artist,position:absolute,bottom:80px,right:90px,margin-bottom:-30px
+##### Mark of Hospitality
+[Greater]()
+}}
+
+<div class='pageNumber auto'></div>
+\page
 
 ![Human Homes](https://media-waterdeep.cursecdn.com/attachments/0/632/humanintro.png) {position:absolute,top:-20px,left:-10px,width:200%}
 
@@ -1762,9 +1923,49 @@ If your campaign uses the optional feat rules from chapter 6, your Dungeon Maste
 ***Feat.*** You gain one feat of your choice.
 }}
 
+<div class='pageNumber auto'></div>
+\page
+
+![Human stuff](https://i.pinimg.com/originals/e6/cf/01/e6cf012302567868dd5db79e364ee972.png) {width:60%,left:-30px,top:0px,position:absolute,mix-blend-mode:multiply}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### Eberron
+
+{{quote-block
+“The dwarf is stoic. The elf is wise. The gnome is cunning. And humans? They can’t make up their mind, so they try to be all of these things at once.”
+}}
+{{quote-block-author
+— Kessler, 
+}}
+{{quote-block-author-title
+Sharn bard
+}}
+
+Humans have dominated Khorvaire for thousands of years. They founded the Five Nations and make up the majority of the population in these countries. Despite their relatively short lifespan — or perhaps because of it — humans are innovative, adaptable, and aggressive, always pushing their limits and pursuing new ideas.
+
+Humans are extremely diverse; a barbarian from the Demon Wastes has little in common with a Brelish rogue. When you’re creating a human character, consider where you’re from and how that’s reflected in your class and background. Chapter 2 of *Eberron: Rising from the Last War* presents an overview of the nations of Khorvaire and ideas for characters tied to those nations. However, these are ideas — not restrictions. Aundair is a logical origin for a wizard, but your wizard could be a down-and-out arcanist from the alleys of Sharn or a Lhazaar pirate with a knack for the mystic arts.
+
+The variant human presented in the Player’s Handbook provides an additional opportunity to capture some of the flavor of Eberron. Does your choice of skill proficiency and feat reflect the culture you were raised in?
+
+#### Humans and Dragonmarks
+Humans possess a wide range of Dragonmarks, and their houses are spread across Khorvaire. House Cannith is one of the most powerful houses, creating both magic and mundane items with the Mark of Making. House Orien maintains the Lightning Rail and trade caravans that run across the continent. House Deneith brokers the services of bodyguards and mercenaries. House Vadalis uses the Mark of Handling to breed fine mounts and other creatures. House Tharashk produces bounty hunters, prospectors, and inquisitives.
 
 
+![human stuff](http://klubbsaga2015.wdfiles.com/local--files/making/Making%2003%20Greater%20Mark%20%28Cannith%29.png) {width:20%,right:220px,bottom:315px,position:absolute}
+{{artist,position:absolute,bottom:575px,right:255px,margin-bottom:-30px
+##### Mark of Making
+[Greater]()
+}}
 
+![half-elf stuff](http://klubbsaga2015.wdfiles.com/local--files/handling/Handling%2002%20-%20Lesser%20Mark%20%28Vadalis%29.png) {width:20%,right:40px,bottom:400px,position:absolute}
+{{artist,position:absolute,bottom:390px,right:55px,margin-bottom:-30px
+##### Mark of Handling
+[Greater]()
+}}
+
+
+![Human stuff](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/races/5dd3f512aa198_1-25.png) {width:60%,right:-45px,bottom:-70px,position:absolute,mix-blend-mode:multiply}
 
 <div class='pageNumber auto'></div>
 \page
